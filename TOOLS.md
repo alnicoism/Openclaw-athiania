@@ -1,8 +1,14 @@
 # TOOLS.md - Local Notes
 
+## Obsidian Vault
+- **Athiania** — `/home/henry/Qsync/Obsidian/Athiania/` — the only vault to use
+
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
-## What Goes Here
+## Obsidian Vault
+- Vault name: `athiania`
+- Path: `/home/henry/Qsync/Obsidian/Athiania`
+- Access: `mcporter call obsidian.*` (stdio transport)
 
 Things like:
 
