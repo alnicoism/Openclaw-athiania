@@ -1,7 +1,9 @@
 # TOOLS.md - Local Notes
 
-## Obsidian Vault
-- **Athiania** — `/home/henry/Qsync/Obsidian/Athiania/` — the only vault to use
+## Obsidian Vaults (rclone bisync to alnicoismgdrive)
+- **Path:** `/home/henry/Obsidian Vault/`
+- **Vault:** `Athiania` (in active use)
+- **Qsync source:** `/home/henry/Qsync/Obsidian/Athiania/`
 
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
